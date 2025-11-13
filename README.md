@@ -2,8 +2,6 @@
 
 ### Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iFarruxdev&label=Profile views&color=0e75b6&style=flat" alt="iFarruxdev" /> </p>
-
 - 🌱 I'm currently learning **React , Typescript**
 
 - 📫 How to reach me **djalilovfarruxdev@gmail.com**
